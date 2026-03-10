@@ -28,4 +28,10 @@ Tools & Technologies
 
 ## Dashboard Preview
 
-![Dashboard](image.png)
+![Executive Dashboard](Executive%20Dashboard.png)
+
+### Ad-hoc Analysis Page
+![Adhoc](ad-hoc%20analysis%20page.png)
+
+### Data Model
+![Model](image.png)
